@@ -1,9 +1,17 @@
 From, to, weight
-JZ, AB, 1
-AB,VB, 1
-AB,BB, 1
-AB,KU, 2
-JZ, BB, 3
+Jannik Zink, Viktoria-Elisabeth Bauer,2
+Viktoria-Elisabeth Bauer, Jannik Zink,2
+Jannik Zink, Kelly Uffelmann,1
+Kelly Uffelmann, Jannik Zink,1
+Jannik Zink, Birgit Bauer,3
+Birgit Bauer, Jannik Zink,3
+Kelly Uffelmann, Viktoria-Elisabeth Bauer,2
+Viktoria-Elisabeth Bauer, Kelly Uffelmann,2
+Viktoria-Elisabeth Bauer, Birgit Bauer,3
+Birgit Bauer, Viktoria-Elisabeth Bauer,3 
+Kelly Uffelmann, Birgit Bauer,1 
+Birgit Bauer, Kelly Uffelmann,1
+
 
 id,name,age,education,religion,sex
 JZ,Jannik Zink,21,2,1,1
