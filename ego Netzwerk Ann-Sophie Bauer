@@ -1,0 +1,12 @@
+id: \ JZ, VB, KU, BB, AB 
+from: \ AB, AB, AB ,AB, JZ
+to: \  JZ, VB, BB, KU, BB
+weight:\ 1= jeden Tag, 2= jede Woche , 3= einmal im Minat
+relation:
+
+id:\ JZ, VB, KU, BB, AB 
+name:\ Jannik Zink, Viktoria-Elisabeth Bauer, Kelly Uffelmann, Birgit Bauer, Ann-Sophie Bauer
+age:\ 21,20,23,57,22
+education:\ Hauptschule = 1, Mittlere Reife = 2, Fachhochschulreife = 3, Abitur = 4
+religion:\ keine = 0, evangelisch = 1, katholisch = 2
+sex:\ männlich = 1, weiblich = 2
