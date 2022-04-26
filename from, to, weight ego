@@ -1,0 +1,13 @@
+from, to, weight
+Jannik Zink, Viktoria-Elisabeth Bauer,2
+Viktoria-Elisabeth Bauer, Jannik Zink,2
+Jannik Zink, Kelly Uffelmann,1
+Kelly Uffelmann, Jannik Zink,1
+Jannik Zink, Birgit Bauer,3
+Birgit Bauer, Jannik Zink,3
+Kelly Uffelmann, Viktoria-Elisabeth Bauer,2
+Viktoria-Elisabeth Bauer, Kelly Uffelmann,2
+Viktoria-Elisabeth Bauer, Birgit Bauer,3
+Birgit Bauer, Viktoria-Elisabeth Bauer,3 
+Kelly Uffelmann, Birgit Bauer,1 
+Birgit Bauer, Kelly Uffelmann,1
